@@ -34,5 +34,7 @@ Seaborn
 
 Mathplotlib
 
+Jupyter Notebook
+
 
 
